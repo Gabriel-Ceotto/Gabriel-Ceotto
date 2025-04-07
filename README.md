@@ -1,5 +1,5 @@
-Olá a todos, Me chamo Gabriel! Sou uma pessoa que tem TDAH, porém não tenho problemas extremos com foco e também amo trabalhar em equipe.
-Atualmente estou cursando Redes de Computadores com intenção de trabalhar na área de TI e busco para complementar os meus conhecimentos com um estágio, tenho uma certeza convicta que não irei decepcionar a quem me der a oportunidade.
+Olá a todos, Me chamo Gabriel! Sou formado no curso Técnico em Redes de Computadores, tenho TDAH, porém não tenho problemas extremos com foco e também amo trabalhar em equipe.
+Atualmente estou cursando Técnico em Informática com intenção de trabalhar na área de TI e busco para complementar os meus conhecimentos com um estágio, tenho uma certeza convicta que não irei decepcionar a quem me der a oportunidade.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-da-victoria-ceotto-04a12b17a/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/BielCeotto/)
